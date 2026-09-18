@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-09-18T04:18:59Z",
+ "generated_at": "2026-09-18T09:07:22Z",
  "source": "forexfactory-ff_calendar_thisweek",
  "events": [
   {
@@ -94,7 +94,7 @@
   {
    "title": "BOJ Press Conference",
    "country": "JPY",
-   "date": "2026-09-18T01:30:00-04:00",
+   "date": "2026-09-18T02:30:00-04:00",
    "impact": "High",
    "forecast": "",
    "previous": ""
