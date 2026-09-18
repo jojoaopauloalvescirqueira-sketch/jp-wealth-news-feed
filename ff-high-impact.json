@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-09-17T23:57:09Z",
+ "generated_at": "2026-09-18T04:18:59Z",
  "source": "forexfactory-ff_calendar_thisweek",
  "events": [
   {
@@ -78,7 +78,7 @@
   {
    "title": "BOJ Policy Rate",
    "country": "JPY",
-   "date": "2026-09-17T22:30:00-04:00",
+   "date": "2026-09-17T22:54:00-04:00",
    "impact": "High",
    "forecast": "<1.25%",
    "previous": "<1.00%"
@@ -86,7 +86,7 @@
   {
    "title": "Monetary Policy Statement",
    "country": "JPY",
-   "date": "2026-09-17T22:30:00-04:00",
+   "date": "2026-09-17T22:54:00-04:00",
    "impact": "High",
    "forecast": "",
    "previous": ""
