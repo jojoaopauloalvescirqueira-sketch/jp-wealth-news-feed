@@ -1,15 +1,47 @@
 {
  "version": 1,
- "generated_at": "2026-09-27T00:47:52Z",
+ "generated_at": "2026-09-27T06:21:12Z",
  "source": "forexfactory-ff_calendar_thisweek",
  "events": [
   {
-   "title": "BOE Gov Bailey Speaks",
-   "country": "GBP",
-   "date": "2026-09-25T05:15:00-04:00",
+   "title": "Core PCE Price Index m/m",
+   "country": "USD",
+   "date": "2026-09-30T08:30:00-04:00",
    "impact": "High",
-   "forecast": "",
-   "previous": ""
+   "forecast": "0.3%",
+   "previous": "0.2%"
+  },
+  {
+   "title": "Final GDP q/q",
+   "country": "USD",
+   "date": "2026-09-30T08:30:00-04:00",
+   "impact": "High",
+   "forecast": "1.5%",
+   "previous": "1.5%"
+  },
+  {
+   "title": "Average Hourly Earnings m/m",
+   "country": "USD",
+   "date": "2026-10-02T08:30:00-04:00",
+   "impact": "High",
+   "forecast": "0.3%",
+   "previous": "0.3%"
+  },
+  {
+   "title": "Non-Farm Employment Change",
+   "country": "USD",
+   "date": "2026-10-02T08:30:00-04:00",
+   "impact": "High",
+   "forecast": "98K",
+   "previous": "162K"
+  },
+  {
+   "title": "Unemployment Rate",
+   "country": "USD",
+   "date": "2026-10-02T08:30:00-04:00",
+   "impact": "High",
+   "forecast": "4.1%",
+   "previous": "4.1%"
   }
  ]
 }
