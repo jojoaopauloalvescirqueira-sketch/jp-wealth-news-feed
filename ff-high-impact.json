@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-09-28T08:20:45Z",
+ "generated_at": "2026-09-28T16:54:56Z",
  "source": "forexfactory-ff_calendar_thisweek",
  "events": [
   {
@@ -32,7 +32,7 @@
    "country": "USD",
    "date": "2026-10-02T08:30:00-04:00",
    "impact": "High",
-   "forecast": "98K",
+   "forecast": "89K",
    "previous": "162K"
   },
   {
