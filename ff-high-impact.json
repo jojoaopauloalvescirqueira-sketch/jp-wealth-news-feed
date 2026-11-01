@@ -1,108 +1,84 @@
 {
  "version": 1,
- "generated_at": "2026-11-01T01:55:37Z",
+ "generated_at": "2026-11-01T08:53:12Z",
  "source": "forexfactory-ff_calendar_thisweek",
  "events": [
   {
-   "title": "Annual Budget Release",
-   "country": "GBP",
-   "date": "2026-10-28T08:30:00-04:00",
+   "title": "Congressional Elections",
+   "country": "USD",
+   "date": "2026-11-03T10:16:00-05:00",
    "impact": "High",
    "forecast": "",
    "previous": ""
   },
   {
-   "title": "Federal Funds Rate",
-   "country": "USD",
-   "date": "2026-10-28T14:00:00-04:00",
+   "title": "BOE Monetary Policy Report",
+   "country": "GBP",
+   "date": "2026-11-05T07:00:00-05:00",
+   "impact": "High",
+   "forecast": "",
+   "previous": ""
+  },
+  {
+   "title": "Monetary Policy Summary",
+   "country": "GBP",
+   "date": "2026-11-05T07:00:00-05:00",
+   "impact": "High",
+   "forecast": "",
+   "previous": ""
+  },
+  {
+   "title": "MPC Official Bank Rate Votes",
+   "country": "GBP",
+   "date": "2026-11-05T07:00:00-05:00",
+   "impact": "High",
+   "forecast": "7-0-2",
+   "previous": "3-0-6"
+  },
+  {
+   "title": "Official Bank Rate",
+   "country": "GBP",
+   "date": "2026-11-05T07:00:00-05:00",
    "impact": "High",
    "forecast": "4.00%",
-   "previous": "4.00%"
+   "previous": "3.75%"
   },
   {
-   "title": "FOMC Statement",
-   "country": "USD",
-   "date": "2026-10-28T14:00:00-04:00",
+   "title": "BOE Gov Bailey Speaks",
+   "country": "GBP",
+   "date": "2026-11-05T07:30:00-05:00",
    "impact": "High",
    "forecast": "",
    "previous": ""
   },
   {
-   "title": "FOMC Press Conference",
+   "title": "Average Hourly Earnings m/m",
    "country": "USD",
-   "date": "2026-10-28T14:30:00-04:00",
-   "impact": "High",
-   "forecast": "",
-   "previous": ""
-  },
-  {
-   "title": "Advance GDP q/q",
-   "country": "USD",
-   "date": "2026-10-29T08:30:00-04:00",
-   "impact": "High",
-   "forecast": "3.2%",
-   "previous": "1.5%"
-  },
-  {
-   "title": "Core PCE Price Index m/m",
-   "country": "USD",
-   "date": "2026-10-29T08:30:00-04:00",
+   "date": "2026-11-06T08:30:00-05:00",
    "impact": "High",
    "forecast": "0.3%",
-   "previous": "0.2%"
+   "previous": "0.1%"
   },
   {
-   "title": "Main Refinancing Rate",
-   "country": "EUR",
-   "date": "2026-10-29T09:15:00-04:00",
+   "title": "Non-Farm Employment Change",
+   "country": "USD",
+   "date": "2026-11-06T08:30:00-05:00",
    "impact": "High",
-   "forecast": "2.65%",
-   "previous": "2.65%"
+   "forecast": "63K",
+   "previous": "29K"
   },
   {
-   "title": "Monetary Policy Statement",
-   "country": "EUR",
-   "date": "2026-10-29T09:15:00-04:00",
+   "title": "Unemployment Rate",
+   "country": "USD",
+   "date": "2026-11-06T08:30:00-05:00",
    "impact": "High",
-   "forecast": "",
-   "previous": ""
+   "forecast": "4.2%",
+   "previous": "4.2%"
   },
   {
-   "title": "ECB Press Conference",
-   "country": "EUR",
-   "date": "2026-10-29T09:45:00-04:00",
-   "impact": "High",
-   "forecast": "",
-   "previous": ""
-  },
-  {
-   "title": "BOJ Outlook Report",
+   "title": "BOJ Gov Ueda Speaks",
    "country": "JPY",
-   "date": "2026-10-29T23:02:00-04:00",
-   "impact": "High",
-   "forecast": "",
-   "previous": ""
-  },
-  {
-   "title": "BOJ Policy Rate",
-   "country": "JPY",
-   "date": "2026-10-29T23:02:00-04:00",
-   "impact": "High",
-   "forecast": "<1.25%",
-   "previous": "<1.25%"
-  },
-  {
-   "title": "Monetary Policy Statement",
-   "country": "JPY",
-   "date": "2026-10-29T23:02:00-04:00",
-   "impact": "High",
-   "forecast": "",
-   "previous": ""
-  },
-  {
-   "title": "BOJ Press Conference",
-   "country": "JPY",
-   "date": "2026-10-30T02:30:00-04:00",
+   "date": "2026-11-06T11:00:00-05:00",
    "impact": "High",
    "forecast": "",
    "previous": ""
