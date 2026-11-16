@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-11-16T00:11:28Z",
+ "generated_at": "2026-11-16T07:05:21Z",
  "source": "forexfactory-ff_calendar_thisweek",
  "events": [
   {
@@ -34,14 +34,6 @@
    "impact": "High",
    "forecast": "3.6%",
    "previous": "3.5%"
-  },
-  {
-   "title": "BOE Gov Bailey Speaks",
-   "country": "GBP",
-   "date": "2026-11-18T02:30:00-05:00",
-   "impact": "High",
-   "forecast": "",
-   "previous": ""
   },
   {
    "title": "BOE Gov Bailey Speaks",
