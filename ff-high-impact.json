@@ -1,55 +1,23 @@
 {
  "version": 1,
- "generated_at": "2026-11-22T02:51:26Z",
+ "generated_at": "2026-11-22T10:48:59Z",
  "source": "forexfactory-ff_calendar_thisweek",
  "events": [
   {
-   "title": "Fed Chairman Warsh Speaks",
+   "title": "Core PCE Price Index m/m",
    "country": "USD",
-   "date": "2026-11-16T12:00:00-05:00",
+   "date": "2026-11-25T08:30:00-05:00",
    "impact": "High",
-   "forecast": "",
-   "previous": ""
+   "forecast": "0.3%",
+   "previous": "0.3%"
   },
   {
-   "title": "Core Retail Sales m/m",
+   "title": "Prelim GDP q/q",
    "country": "USD",
-   "date": "2026-11-17T08:30:00-05:00",
+   "date": "2026-11-25T08:30:00-05:00",
    "impact": "High",
-   "forecast": "0.4%",
-   "previous": "0.9%"
-  },
-  {
-   "title": "Retail Sales m/m",
-   "country": "USD",
-   "date": "2026-11-17T08:30:00-05:00",
-   "impact": "High",
-   "forecast": "0.1%",
-   "previous": "0.8%"
-  },
-  {
-   "title": "CPI y/y",
-   "country": "GBP",
-   "date": "2026-11-18T02:00:00-05:00",
-   "impact": "High",
-   "forecast": "3.6%",
-   "previous": "3.5%"
-  },
-  {
-   "title": "BOE Gov Bailey Speaks",
-   "country": "GBP",
-   "date": "2026-11-18T10:00:00-05:00",
-   "impact": "High",
-   "forecast": "",
-   "previous": ""
-  },
-  {
-   "title": "FOMC Meeting Minutes",
-   "country": "USD",
-   "date": "2026-11-18T14:00:00-05:00",
-   "impact": "High",
-   "forecast": "",
-   "previous": ""
+   "forecast": "3.5%",
+   "previous": "3.4%"
   }
  ]
 }
